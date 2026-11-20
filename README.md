@@ -25,8 +25,8 @@
 
 ## 🎥 Tautan Video Presentasi Progres & Demo Final
 
-| Tahapan Video | Topik Bahasan | Durasi | Tautan Video (YouTube / G-Drive) |
-|---|---|---|---|
+| Tahapan Video | Topik Bahasan | Tautan Video (YouTube / G-Drive) |
+|---|---|---|
 | **Video Tahap 1** | Inisiasi PRD, Identifikasi Masalah & Konsep AI | [Tautan Video Tahap 1](https://youtu.be/VsBLO6mK9rc) |
 | **Video Tahap 2** | Pemodelan 4 Diagram UML & Walkthrough UI/UX | [Tautan Video Tahap 2](https://youtu.be/D6_aMIjdjcQ) |
 | **Video Tahap 2** | Konstruksi Kode, Integrasi AI, Testing dan CI/CD | [Tautan Video Tahap 3](https://youtu.be/_2yQ6J5XAUo) |
