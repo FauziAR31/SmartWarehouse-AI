@@ -6,7 +6,7 @@
 ![AI Engine](https://img.shields.io/badge/AI%20Engine-Google%20Gemini%20Pro-4285F4?logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-> **Tugas Proyek Akhir Mandiri Mata Kuliah Rekayasa Perangkat Lunak (TIKB2503021) — Semester 3**  
+> **Tugas Proyek Akhir Mandiri Mata Kuliah Rekayasa Perangkat Lunak — Semester 3**  
 > **Program Studi S1 Teknik Informatika — STMIK IKMI Cirebon**  
 > **Dosen Pengampu:** Yudhistira Arie Wijaya, M.Kom., CDS.
 
