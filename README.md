@@ -1,6 +1,6 @@
 # SmartWarehouse AI - Intelligent Warehouse Management System
 
-[![SmartWarehouse CI/CD Pipeline](https://github.com/username/proyek-rpl-smartwarehouse/actions/workflows/ci.yml/badge.svg)](https://github.com/username/proyek-rpl-smartwarehouse/actions)
+[![SmartWarehouse CI/CD Pipeline](https://github.com/FauziAR31/SmartWarehouse-AI.git)
 
 > **Tugas Proyek Akhir Mandiri Mata Kuliah Rekayasa Perangkat Lunak (TIKB2503021) — Semester 3**  
 > **Program Studi S1 Teknik Informatika — STMIK IKMI Cirebon**  
