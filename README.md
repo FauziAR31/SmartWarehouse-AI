@@ -1,10 +1,6 @@
 # SmartWarehouse AI - Intelligent Warehouse Management System
 
 [![SmartWarehouse CI/CD Pipeline](https://github.com/username/proyek-rpl-smartwarehouse/actions/workflows/ci.yml/badge.svg)](https://github.com/username/proyek-rpl-smartwarehouse/actions)
-![PHP Version](https://img.shields.io/badge/PHP-8.1%20%7C%208.2-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
-![AI Engine](https://img.shields.io/badge/AI%20Engine-Google%20Gemini%20Pro-4285F4?logo=google&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 > **Tugas Proyek Akhir Mandiri Mata Kuliah Rekayasa Perangkat Lunak (TIKB2503021) — Semester 3**  
 > **Program Studi S1 Teknik Informatika — STMIK IKMI Cirebon**  
